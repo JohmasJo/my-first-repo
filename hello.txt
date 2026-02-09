@@ -2,3 +2,4 @@ Hello, this is my updated Git project! I added a new line.
 Hair style: kill matt forevergit branch!
 New feature on main: add footer
 Fixing a bug in this line
+This line is for new branch.
