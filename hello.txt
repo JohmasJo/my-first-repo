@@ -1,1 +1,1 @@
-Hello, this is my first Git project!
+Hello, this is my updated Git project! I added a new line.
