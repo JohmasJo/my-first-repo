@@ -1,2 +1,1 @@
 Hello, this is my updated Git project! I added a new line.
-This is a third line, just for testing diff.
